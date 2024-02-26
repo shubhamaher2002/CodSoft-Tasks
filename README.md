@@ -14,17 +14,17 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/shubhamaher2002/CodSoft-Tasks/blob/main/No_Guessing_Game.java
+git clone https://github.com/shubhamaher2002/CodSoft-Tasks/blob/main/Number_Guessing_Game.java
 Compile the Java file:
 
 bash
 Copy code
-javac No_Guessing_Game.java
+javac Number_Guessing_Game.java
 Run the game:
 
 bash
 Copy code
-java No_Guessing_Game
+java Number_Guessing_Game
 
 How to Play:-
 Start the game by choosing option 1 from the menu.
