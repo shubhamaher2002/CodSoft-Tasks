@@ -14,7 +14,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/shubhamaher2002/No_Guessing_Game.git
+git clone https://github.com/shubhamaher2002/CodSoft-Tasks/blob/main/No_Guessing_Game.java
 Compile the Java file:
 
 bash
