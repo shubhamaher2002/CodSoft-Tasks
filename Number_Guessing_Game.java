@@ -6,7 +6,7 @@ In this Guessing game user has 20 chances to Guess the correct number. If user d
 import java.util.Scanner;
 import java.util.Random;
 
-public class No_Guessing_Game {
+public class Number_Guessing_Game {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
