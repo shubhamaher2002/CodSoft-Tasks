@@ -14,7 +14,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/number-guessing-game.git
+git clone https://github.com/shubhamaher2002/number-guessing-game.git
 Compile the Java file:
 
 bash
